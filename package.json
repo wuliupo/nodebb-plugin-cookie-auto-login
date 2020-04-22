@@ -6,6 +6,7 @@
   "bugs": {
     "url": "https://github.com/livey0u/nodebb-plugin-cookie-auto-login/issues"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "dependencies": {
     "pino": "^4.10.2",
     "request": "^2.83.0",
